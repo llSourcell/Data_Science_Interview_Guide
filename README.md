@@ -1,6 +1,8 @@
 # Data_Science_Interview_Guide
 These are the tips for "5 Steps to Pass Data Science Interviews" By Siraj Raval on Youtube
 
+Share your success with me on Social Media (Twitter, Linkedin, Instagram, Facebook, even YT) using the #SchoolofAICareers Hashtag, i'll reshare! 
+
 
 ## Step 1 - Ask yourself "Why"
 
